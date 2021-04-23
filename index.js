@@ -5,3 +5,4 @@ function add() {
   document.write(5 - 2);
   console.log("Do this work");
 }
+Console.log("Do something");
