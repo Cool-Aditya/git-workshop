@@ -3,4 +3,5 @@ function multiply() {
 }
 function add() {
   document.write(5 - 2);
+  console.log("Do this work");
 }
