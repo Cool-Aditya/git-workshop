@@ -6,3 +6,6 @@ function add() {
   console.log("Do this work");
 }
 Console.log("Do something");
+}
+
+console.log("changed");
