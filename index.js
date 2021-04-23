@@ -5,4 +5,4 @@ function add() {
   document.write(5 - 2);
 }
 
-console.log("work done");
+console.log("changed");
