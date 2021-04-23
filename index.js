@@ -1,5 +1,5 @@
 function multiply() {
-  document.write(2 * 4);
+  document.write(4 / 2);
 }
 function add() {
   document.write(5 + 2);
